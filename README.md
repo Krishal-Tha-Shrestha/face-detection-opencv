@@ -2,9 +2,6 @@
 
 Real-time face detection using Python, OpenCV and Android phone as camera via IP Webcam.
 
-## Demo
-![Face Detection Demo](demo.png)
-
 ## Libraries Used
 - OpenCV
 - NumPy
