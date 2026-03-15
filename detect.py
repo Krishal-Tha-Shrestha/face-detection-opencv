@@ -4,7 +4,7 @@ import urllib.request
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
-url = "http://192.168.137.97:8080/shot.jpg"  # keep your IP
+url = "http://yourip:8080/shot.jpg"  # keep your IP
 
 while True:
     try:
